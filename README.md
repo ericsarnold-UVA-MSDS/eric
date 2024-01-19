@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, I'm Eric S. Arnold</h1>
-<h3 align="center">A MS Data Science Student excited to learn about Data Science</h3>
+<h3 align="center">A MS Data Science Student at University of Virginia #GoHoos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericsarnold-uva-msds&label=Profile%20views&color=0e75b6&style=flat" alt="ericsarnold-uva-msds" /> </p>
 
